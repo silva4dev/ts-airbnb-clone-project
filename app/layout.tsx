@@ -23,7 +23,7 @@ export default async function RootLayout({
     <html lang="en">
       <body className={font.className}>
         <ClientOnly>
-          <Modal isOpen={true} />
+          <Modal actionLabel="Submit" title="Hello World" isOpen />
           <Navbar />
         </ClientOnly>
         <div
