@@ -1,5 +1,5 @@
 {
-  "name": "airbnb-clone",
+  "name": "airbnb-clone-3",
   "version": "0.1.0",
   "private": true,
   "scripts": {
@@ -37,7 +37,7 @@
     "swr": "^2.1.1",
     "typescript": "5.0.2",
     "world-countries": "^4.0.0",
-    "zustand": "^4.3.8"
+    "zustand": "^4.3.6"
   },
   "devDependencies": {
     "@types/bcrypt": "^5.0.0",
